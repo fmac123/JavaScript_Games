@@ -1,0 +1,32 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 400px;
+}
+
+body {
+    background-color: #264653;
+}
+
+#score {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #e9c46a;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #e9c46a;
+}
+
+
+/* add a border around each tile in memory game*/
+/* add a transform to css for the flip action*/
+
+
